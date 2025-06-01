@@ -1,1 +1,1 @@
-console.log('Hello new typescript');
+let age: number = 31; 
