@@ -1,4 +1,4 @@
 "use strict";
-let age = 10;
+let age;
 let time;
 //# sourceMappingURL=index.js.map
