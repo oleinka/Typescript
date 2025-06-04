@@ -1,4 +1,3 @@
 "use strict";
-let age;
-let time;
+let user = [1, 'Ada'];
 //# sourceMappingURL=index.js.map
