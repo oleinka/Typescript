@@ -1,4 +1,7 @@
-const enum Size { Small = 's', Medium = 'm', Large = 'l' };
+function calculateTax (income: number): number {
+    return 0;
+} 
 
-let mySize: Size = Size.Medium;
-console.log(mySize);
+function calculateTax1 (income: number) {
+
+}
