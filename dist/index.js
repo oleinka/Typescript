@@ -1,7 +1,9 @@
 "use strict";
-function calculateTax(income) {
-    return 0;
-}
-function calculateTax1(income) {
-}
+let employee = {
+    id: 1,
+    name: "Tadeusz",
+    retire: (date) => {
+        console.log(date);
+    }
+};
 //# sourceMappingURL=index.js.map
