@@ -1,7 +1,8 @@
-//literal, exact value
-type Quantity = 50 | 100; 
-let quantity: Quantity = 100;
+function greet(name: string | null | undefined) {
+    if (name)
+    console.log(name.toLocaleUpperCase())
+    else
+    console.log('HELLO');
+}
 
-type Metric = 'cm' | 'inch';
-
-
+greet(null);
